@@ -1,0 +1,45 @@
+Summary of hidden fields
+
+				eProtect Classic   AEC Wallet
+request$pagepageId			X		X
+request$merchantTxnId			X		X
+request$pagepageId			X		X
+request$orderId				X		X
+request$reportGroup			X		X
+request$timeout				X
+
+response$code				X
+response$responseTime			X
+response$message			X
+response$litleTxnId			X
+response$merchantTxnId			X		?
+response$orderId			X		X
+response$reportGroup			X		X
+response$type				X
+response$firstSix			X
+response$lastFour			X		X
+timeoutMessage				X	
+paypageRegistrationId			X		X
+encryptedData						X
+sharedKey						X
+bin					X		?
+
+
+ecomm$User				X		X
+ecomm$Pass				X		X
+ecomm$MerchantId			X		X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
