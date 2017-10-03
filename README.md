@@ -11,6 +11,8 @@ If you want to this code interactively, it is hosted at this URL: https://e42fb6
 
 Enter a test credit card to simulate processing against Vantiv's eCommerce platform or make a payment using a test card stored in the AMEX Express Checkout wallet.
 
+![AEC demo application](https://raw.githubusercontent.com/GJSissons/aec_demo/blob/master/images/aec_screencapture.PNG)
+
 This demo operates against the AMEX Express Checkout QA environment and the Vantiv eCommerce pre-live environment and illustrates how eProtect can be used to facilitate both traditional card payments and wallet transactions. Please do not use real card numbers.
 
 ### For traditional card payments
